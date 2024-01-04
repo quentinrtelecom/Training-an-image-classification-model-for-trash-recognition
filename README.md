@@ -1,0 +1,1 @@
+# Training-an-image-classification-model-for-trash-recognition
